@@ -1,0 +1,23 @@
+/* Style for clock and hexClock */
+
+body {
+  display: inline-block;
+  width: 280px;
+  margin: 400px;
+  margin-top: 200px;
+  background-color: black;
+}  
+
+.myClock{
+  color: white;
+  font: 10em sans-serif, arial;
+  text-align: center;
+  font-weight: normal;
+}
+.hexClock{
+  color: white;
+  font: 10em sans-serif, arial;
+  text-align: center;
+  font-weight: normal;
+}
+
